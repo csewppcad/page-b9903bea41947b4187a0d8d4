@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f48d1e744a5e34df60552b97",
+  "owner": "csewppcad",
+  "repo": "page-b9903bea41947b4187a0d8d4",
+  "title": "网之易(NetEase)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b9903bea41947b4187a0d8d4",
+      "a": "网之易(NetEase)",
+      "b": "",
+      "entity": "网之易(NetEase)",
+      "brand": "网之易(NetEase)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e0688fe0cadd6f01eefce5cfc6addf9c92a52ec489b0a506d45c7c6ed024971d",
+      "content": {
+        "keyword1": "网之易(NetEase)",
+        "keyword2": "",
+        "primary_entity": "网之易(NetEase)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "网之易(NetEase) 提供多端网络接入与规则分流方案。按需选定规格，获取订阅配置，快速同步网络资源。",
+          "AI_DESCRIPTION": "网之易(NetEase) 提供多端网络接入与规则分流方案。按需选定规格，获取订阅配置，快速同步网络资源。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;background-color: #f7f3ee;color: #2b1d16;line-height: 1.6}\na {color: inherit;text-decoration: none}\nmain {max-width: 1080px;margin: 0 auto;padding: 40px 24px 80px}\n\n/* 首屏内嵌锚点导航 */\n.hero-nav {display: flex;flex-wrap: wrap;gap: 12px;margin-bottom: 32px}\n.hero-nav a {font-size: 14px;font-weight: 600;padding: 8px 18px;background-color: #ede5dc;color: #3b2a21;border-radius: 999px;transition: background-color 0.2s}\n.hero-nav a:hover {background-color: #4cdbb5;color: #162420}\n\n/* Hero: 左文右信息面板不对称分栏 */\n.hero-grid {display: grid;grid-template-columns: 1.25fr 0.95fr;gap: 32px;align-items: stretch;margin-bottom: 64px}\n.hero-content {background-color: #ffffff;padding: 44px;border-radius: 28px;box-shadow: 0 16px 36px rgba(43, 29, 22, 0.06);display: flex;flex-direction: column;justify-content: center}\n.hero-tag {align-self: flex-start;font-size: 12px;font-weight: 700;letter-spacing: 0.08em;text-transform: uppercase;background-color: #d8f5ec;color: #176551;padding: 6px 12px;border-radius: 8px;margin-bottom: 20px}\n.hero-content h1 {font-size: 38px;line-height: 1.25;color: #241711;margin-bottom: 18px;font-weight: 800}\n.hero-content p {font-size: 16px;color: #5c473c;margin-bottom: 28px}\n.hero-actions {display: flex;gap: 14px}\n.btn-primary {display: inline-block;background-color: #34c49f;color: #123328;font-weight: 700;font-size: 15px;padding: 12px 26px;border-radius: 12px}\n.btn-secondary {display: inline-block;background-color: #ede5dc;color: #3b2a21;font-weight: 600;font-size: 15px;padding: 12px 22px;border-radius: 12px}\n\n.hero-panel {background-color: #2b1d16;color: #f7f3ee;padding: 36px;border-radius: 28px;box-shadow: 0 16px 36px rgba(43, 29, 22, 0.15);display: flex;flex-direction: column;justify-content: space-between}\n.panel-head {border-bottom: 1px solid #433026;padding-bottom: 16px;margin-bottom: 20px}\n.panel-head h2 {font-size: 18px;color: #5ce3bd;font-weight: 700}\n.panel-list {display: flex;flex-direction: column;gap: 16px}\n.panel-item {display: flex;justify-content: space-between;align-items: baseline;font-size: 14px;border-bottom: 1px dashed #3f2e24;padding-bottom: 10px}\n.panel-item span:first-child {color: #b5a397}\n.panel-item span:last-child {font-weight: 600;color: #f7f3ee}\n.panel-status {margin-top: 20px;background-color: #3a2820;padding: 14px;border-radius: 14px;font-size: 13px;color: #d1c4b9}\n\n/* 章节通用标题 */\n.section-header {margin-bottom: 28px}\n.section-header h2 {font-size: 26px;color: #241711;font-weight: 800}\n.section-header p {font-size: 15px;color: #665044;margin-top: 6px}\n\n/* 套餐方案：单列大卡依次堆叠 */\n.plans-stack {display: flex;flex-direction: column;gap: 22px;margin-bottom: 64px}\n.plan-card {background-color: #ffffff;padding: 32px 36px;border-radius: 24px;box-shadow: 0 12px 30px rgba(43, 29, 22, 0.05);display: flex;flex-wrap: wrap;align-items: center;justify-content: space-between;gap: 24px;border: 2px solid transparent}\n.plan-card.featured {background-color: #ffffff;border-color: #34c49f;box-shadow: 0 16px 36px rgba(52, 196, 159, 0.14)}\n.plan-left {flex: 1 1 240px}\n.plan-badge {display: inline-block;font-size: 12px;font-weight: 700;background-color: #34c49f;color: #10382d;padding: 4px 10px;border-radius: 6px;margin-bottom: 8px}\n.plan-left h3 {font-size: 22px;color: #2b1d16;font-weight: 800}\n.plan-prices {margin-top: 6px}\n.price-main {font-size: 28px;font-weight: 800;color: #241711}\n.price-sub {font-size: 13px;color: #7d685d;margin-left: 8px}\n.plan-features {flex: 2 1 340px;display: grid;grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));gap: 10px 16px;list-style: none}\n.plan-features li {font-size: 14px;color: #4a362c;display: flex;align-items: center;gap: 8px}\n.plan-features li::before {content: \"\";display: inline-block;width: 6px;height: 6px;background-color: #34c49f;border-radius: 50%}\n.plan-action {flex: 0 0 auto}\n.plan-btn {display: inline-block;background-color: #2b1d16;color: #ffffff;padding: 12px 24px;border-radius: 12px;font-size: 14px;font-weight: 600}\n.plan-card.featured .plan-btn {background-color: #34c49f;color: #0b2f25}\n\n/* 客户端指引 */\n.clients-section {margin-bottom: 64px}\n.client-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 20px}\n.client-box {background-color: #ffffff;padding: 26px;border-radius: 20px;box-shadow: 0 10px 24px rgba(43, 29, 22, 0.04)}\n.client-box h4 {font-size: 17px;color: #241711;margin-bottom: 8px;font-weight: 700}\n.client-box p {font-size: 13px;color: #614d42;margin-bottom: 16px;line-height: 1.5}\n.client-link {font-size: 13px;font-weight: 600;color: #176551}\n\n/* FAQ: details 折叠 */\n.faq-section {margin-bottom: 64px}\n.faq-stack {display: flex;flex-direction: column;gap: 14px}\ndetails {background-color: #ffffff;border-radius: 20px;padding: 20px 26px;box-shadow: 0 10px 24px rgba(43, 29, 22, 0.04);cursor: pointer}\ndetails[open] {background-color: #ffffff}\nsummary {font-size: 16px;font-weight: 700;color: #2b1d16;list-style: none;display: flex;justify-content: space-between;align-items: center}\nsummary::-webkit-details-marker {display: none}\nsummary::after {content: \"+\";font-size: 20px;font-weight: 400;color: #176551}\ndetails[open] summary::after {content: \"-\"}\ndetails p {margin-top: 14px;font-size: 14px;color: #554136;line-height: 1.6;border-top: 1px solid #f0eae2;padding-top: 12px}\n\n/* 页脚 */\nfooter {border-top: 1px solid #e5ded5;padding-top: 28px;font-size: 13px;color: #7d685d;display: flex;justify-content: space-between;flex-wrap: wrap;gap: 12px}\n\n@media (max-width: 820px) {\n  .hero-grid {grid-template-columns: 1fr}\n  .hero-content {padding: 30px}\n  .plan-card {padding: 24px;flex-direction: column;align-items: flex-start}\n  .plan-features {width: 100%}\n  .plan-action {width: 100%}\n  .plan-btn {display: block;text-align: center}\n}\n</style><main>\n  \n  <nav class=\"hero-nav\" aria-label=\"页面导览\">\n    <a href=\"#plans\">服务套餐</a>\n    <a href=\"#clients\">客户端支持</a>\n    <a href=\"#setup\">配置流程</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n\n  \n  <section class=\"hero-grid\">\n    <article class=\"hero-content\">\n      <span class=\"hero-tag\">Node &amp; Network Protocol</span>\n      <h1>网之易(NetEase)</h1>\n      <p>规则分流，多端协同。提供明确的套餐配额与标准协议接口，随取随用，保持通信干净利落。</p>\n      <div class=\"hero-actions\">\n        <a href=\"#plans\" class=\"btn-primary\">浏览接入方案</a>\n        <a href=\"#setup\" class=\"btn-secondary\">查看配置指南</a>\n      </div>\n    </article>\n\n    <aside class=\"hero-panel\">\n      <div>\n        <div class=\"panel-head\">\n          <h2>系统运行面板</h2>\n        </div>\n        <div class=\"panel-list\">\n          <div class=\"panel-item\">\n            <span>支持协议类型</span>\n            <span>Shadowsocks / V2Ray / Clash</span>\n          </div>\n          <div class=\"panel-item\">\n            <span>网络分流策略</span>\n            <span>ACL 规则 / 域名列表匹配</span>\n          </div>\n          <div class=\"panel-item\">\n            <span>在线并发计算</span>\n            <span>依据套餐上限动态限制</span>\n          </div>\n          <div class=\"panel-item\">\n            <span>订阅更新周期</span>\n            <span>24 小时自动刷新</span>\n          </div>\n        </div>\n      </div>\n      <div class=\"panel-status\">\n        当前集群节点调度正常。建议每月核对设备数与配额使用情况。\n      </div>\n    </aside>\n  </section>\n\n  \n  <section id=\"plans\">\n    <div class=\"section-header\">\n      <h2>服务方案配置</h2>\n      <p>按月计费，支持按年付结算。配额按自然月或周期重置。</p>\n    </div>\n\n    <div class=\"plans-stack\">\n      \n      <article class=\"plan-card\">\n        <div class=\"plan-left\">\n          <h3>基础版</h3>\n          <div class=\"plans-prices\">\n            <span class=\"price-main\">¥15</span>\n            <span class=\"price-sub\">/月 (按年付仅需 ¥150/年)</span>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <div class=\"plan-action\">\n          <a href=\"#\" class=\"plan-btn\">选定基础版</a>\n        </div>\n      </article>\n\n      \n      <article class=\"plan-card featured\">\n        <div class=\"plan-left\">\n          <span class=\"plan-badge\">主力推荐</span>\n          <h3>旗舰版</h3>\n          <div class=\"plans-prices\">\n            <span class=\"price-main\">¥35</span>\n            <span class=\"price-sub\">/月 (按年付仅需 ¥350/年)</span>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <div class=\"plan-action\">\n          <a href=\"#\" class=\"plan-btn\">立即选定</a>\n        </div>\n      </article>\n\n      \n      <article class=\"plan-card\">\n        <div class=\"plan-left\">\n          <h3>团队版</h3>\n          <div class=\"plans-prices\">\n            <span class=\"price-main\">¥85</span>\n            <span class=\"price-sub\">/月 (按年付仅需 ¥850/年)</span>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <div class=\"plan-action\">\n          <a href=\"#\" class=\"plan-btn\">选定团队版</a>\n        </div>\n      </article>\n    </div>\n  </section>\n\n  \n  <section id=\"clients\" class=\"clients-section\">\n    <div class=\"section-header\">\n      <h2>客户端接入支持</h2>\n      <p>网之易(NetEase) 兼容主流平台开源客户端，导入订阅即可载入分流规则。</p>\n    </div>\n\n    <div class=\"client-grid\">\n      <div class=\"client-box\">\n        <h4>Windows</h4>\n        <p>适配 Clash Verge、v2rayN 等通用客户端。复制订阅链接后通过剪贴板直接导入并启动系统代理。</p>\n        <a href=\"#setup\" class=\"client-link\">查看接入步骤 →</a>\n      </div>\n      <div class=\"client-box\">\n        <h4>macOS</h4>\n        <p>适配 Clash Verge Rev、Surge 等工具。支持增强模式与开机自启，按需配置路由黑白名单。</p>\n        <a href=\"#setup\" class=\"client-link\">查看接入步骤 →</a>\n      </div>\n      <div class=\"client-box\">\n        <h4>iOS / iPadOS</h4>\n        <p>支持 Shadowrocket、Loon、Stash 等代理软件。扫码或一键唤起应用，几秒完成节点同步。</p>\n        <a href=\"#setup\" class=\"client-link\">查看接入步骤 →</a>\n      </div>\n      <div class=\"client-box\">\n        <h4>Android</h4>\n        <p>支持 Clash Meta for Android、v2rayNG。具备分应用代理功能，避免局域网内其他应用受干扰。</p>\n        <a href=\"#setup\" class=\"client-link\">查看接入步骤 →</a>\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"setup\" class=\"clients-section\">\n    <div class=\"section-header\">\n      <h2>快速使用流程</h2>\n      <p>三步建立网络连接，轻量配置，不留冗余步骤。</p>\n    </div>\n\n    <div class=\"client-grid\">\n      <div class=\"client-box\">\n        <h4>第一步：获取专属订阅</h4>\n        <p>在用户控制台选定服务方案，复制通用订阅 URL 或直接导出 Clash 格式配置文件。</p>\n      </div>\n      <div class=\"client-box\">\n        <h4>第二步：导入客户端配置</h4>\n        <p>打开本地客户端，选择新建配置，粘贴订阅链接并点击更新。节点列表将自动列出。</p>\n      </div>\n      <div class=\"client-box\">\n        <h4>第三步：选择路由规则</h4>\n        <p>将模式切换为“Rule / 规则”模式。浏览器发起网络请求时将自动实现国内外分流。</p>\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"faq\" class=\"faq-section\">\n    <div class=\"section-header\">\n      <h2>常见问题解答</h2>\n      <p>关于流量结算、设备上限以及配置更新的说明。</p>\n    </div>\n\n    <div class=\"faq-stack\">\n      <details>\n        <summary>订阅流量是如何计算与重置的？</summary>\n        <p>流量按套餐周期重置。当下行与上行产生数据时计入配额，未用完的流量不结转至下一周期。</p>\n      </details>\n\n      <details>\n        <summary>超出设备同时在线限制会有什么影响？</summary>\n        <p>系统按 IP 与活跃连接数判定在线设备。超出套餐限制时，较早建立连接的设备可能被断开连接。</p>\n      </details>\n\n      <details>\n        <summary>节点列表无法更新如何排查？</summary>\n        <p>请核实网络本地 DNS 解析是否正常。若链接提示超时，可尝试切换本地网络或检查订阅链接完整性。</p>\n      </details>\n\n      <details>\n        <summary>是否支持随时更改或升级套餐？</summary>\n        <p>支持在管理后台直接补差价更换规格。新配额与设备数将在新方案生效后立即更新。</p>\n      </details>\n    </div>\n  </section>\n\n  \n  <footer>\n    <span>网之易(NetEase) 系统规格指南</span>\n    <span>请遵守网络使用相关规范与属地法规</span>\n  </footer>\n</main>",
+          "hash": "1f727651d5e9b7026ecb996c2afaeda1ddeba846c0f9763e34d6dd7695d7d388",
+          "seo": {
+            "title": "网之易(NetEase) 服务规格与系统接入文档",
+            "keywords": "网之易,NetEase,网络接入,配置方案,服务节点,数据传输",
+            "description": "网之易(NetEase) 提供多端网络接入与规则分流方案。按需选定规格，获取订阅配置，快速同步网络资源。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2648",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bqcbp.cn",
+    "host": "p-2833e7a88f.bqcbp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6905208561499bcf54e33dcbaa6a895549bc833ff6f0a9f70e9cc3e7dd1d19e3",
+    "sitemap.xml": "1339de1b1fca2a3c6d46e7dbb6d02bb8d2d50ca99513925bb1610d8208b4cd8f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "563d97b3890ddfaf6998738fc78c6562a11ac30f9fa2146ed12b41e130831e8c",
+    "robots.txt": "b41eef729caa4ed5d2788194241adbded3a9ea4b11f84e62c0254856bc868f5a",
+    "a82a9e40297b733abe0992155bef0e9c.txt": "8a5d87d5b7082f0f08af26ea4caaadacd4ae8f557d2deb935fb90305a357f31c"
+  },
+  "revision": "0f8b7481143551a0bd2a97657e3a561542e7a7eae17ec3dee04510b42402fef5"
+}
